@@ -1,0 +1,10 @@
+build/
+__pycache__/
+*.pyc
+wiki_cache/
+AzurLane*
+*.py
+uv.lock
+wiki_aliases.json
+pyproject.toml
+.python-version
